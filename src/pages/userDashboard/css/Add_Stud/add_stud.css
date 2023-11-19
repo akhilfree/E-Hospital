@@ -1,0 +1,159 @@
+
+.main_header{
+    text-align:center;
+    font-weight:bold;
+    font-family: serif;
+    padding-top:10px;
+}
+
+
+.container_style{
+  border-style: solid;
+  border-color: rgb(187, 187, 187);
+   margin:20px 30px 20px 100px;
+
+}
+.row_style{
+  margin:50px;
+}
+
+.con{
+ width:150px;
+ height:220px;
+ margin-left:-50px;
+  border-style: solid;
+  border-color: rgb(187, 187, 187);
+}
+.up_img{
+  width:15px;
+ }
+ .up_label{
+    margin-top:3px;
+    margin-left:1px;
+    font-size:10px;
+    font-weight:bold;
+ }
+
+ .sec_div{
+   margin-left:-100px;
+ }
+ .sec_inside_div{
+      display:flex;
+      flex-direction: row;
+      justify-content: last;
+       align-items: center;
+       margin-bottom:20px;
+ }
+.input_sty{
+ margin-left:50px;
+ width:220px;
+
+}
+
+.third_div{
+   margin-left:30px;
+ }
+ .third_inside_div{
+      display:flex;
+      flex-direction: row;
+      justify-content: last;
+       align-items: center;
+       margin-bottom:20px;
+ }
+.input_stys{
+margin-left:30px;
+ width:220px;
+}
+.gender_style{
+     margin:10px 10px 10px 70px;
+}
+.gender_style1{
+    margin:10px 10px 10px 135px;
+}
+
+
+                            /*---------------Parents Information-------*/
+
+.parents_info_header{
+ font-weight:bold;
+ font-family:Courier;
+}
+.parent_row
+{
+   margin:40px 40px 40px 110px;
+}
+
+.parent_inside_div{
+ display:flex;
+      flex-direction: row;
+      justify-content: last;
+       align-items: center;
+
+}
+.father_input{
+width:250px;
+margin-left:35px;
+}
+
+.comm_row
+{
+   margin:40px 40px 40px 110px;
+}
+
+.comm_inside_div{
+ display:flex;
+      flex-direction: row;
+      justify-content: last;
+       align-items: center;
+
+}
+.address_input{
+width:800px;
+  height: 100px;
+
+  margin-bottom:20px;
+}
+
+
+   /* Instituition Details*/
+
+ .ins_row{
+ margin:40px 40px 40px 110px;
+ }
+ .preivious_intituition{
+ display:flex;
+      flex-direction: row;
+      justify-content: last;
+       align-items: center;
+       margin-bottom:20px;
+ }
+ .ins_input{
+ width:800px;
+ margin-left: 50px;
+
+ }
+ .ins_inputs{
+ width:800px;
+ margin-left: 50px;
+ height: 100px;
+ }
+                /*Interest Details*/
+ .interest_row{
+ margin:40px 40px 40px 110px;
+ }
+
+                /*Admission Details*/
+
+  .admission_row{
+    margin:40px 40px 40px 110px;
+  }
+
+ .ins_inputss{
+ width:250px;
+ margin-left: 50px;
+
+ }
+
+ .btn{
+    margin:40px 40px 40px 510px;
+ }
