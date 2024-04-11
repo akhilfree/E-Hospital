@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import axiosInstance from './axiosConfig';
-import axios from 'axios';
+
 import { Link, useNavigate} from 'react-router-dom';
 import './styles/css/reg.css';
 import {toast} from 'react-toastify';
